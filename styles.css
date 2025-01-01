@@ -1,11 +1,5 @@
-.input {
-      color: red;
-    }
+
     label {
       display: block;
       margin: 5px 0;
     }
-.red
-{
-	color:rgb(255, 0, 0) !important;
-}
